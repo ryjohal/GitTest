@@ -517,21 +517,3 @@ LogInit: Object subsystem initialized
 [2017.04.28-18.37.47:831][873]LogOutputDevice:Error: ntdll.dll!0x000000003ABA70D1
 [2017.04.28-18.37.47:831][873]LogOutputDevice:Error: 
 [2017.04.28-18.37.47:832][873]LogStats:                SubmitErrorReport -  0.000 s
-[2017.04.28-18.37.48:348][873]LogStats:                    SendNewReport -  0.516 s
-[2017.04.28-18.37.48:348][873]LogStats:             FDebug::EnsureFailed -  0.705 s
-[2017.04.28-18.37.52:125][965]LogSavePackage: Save=68.11ms
-[2017.04.28-18.37.52:125][965]LogSavePackage: Moving '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Saved/Minimal_Default4BBB09DC4DF9C5B5A8E7EEA269C90450.tmp' to '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/StarterContent/Maps/Minimal_Default.umap'
-[2017.04.28-18.37.52:126][965]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/StarterContent/Maps/Minimal_Default.umap
-[2017.04.28-18.37.52:228][965]LogSavePackage: Save=34.40ms
-[2017.04.28-18.37.52:228][965]LogSavePackage: Moving '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Saved/Minimal_Default_BuiltDataEFEDF14D4AD0BF3355C9238F4DBEF675.tmp' to '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
-[2017.04.28-18.37.52:230][965]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
-[2017.04.28-18.38.02:120][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_Tutorial" FILE="../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level1_Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.04.28-18.38.02:135][980]LogSavePackage: Save=6.37ms
-[2017.04.28-18.38.02:135][980]LogSavePackage: Moving '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Saved/Level1_Tutorial7B0CDF6E4B34C6DA19D7A1A7E9DAC141.tmp' to '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level1_Tutorial.umap'
-[2017.04.28-18.38.02:138][980]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level1_Tutorial.umap
-[2017.04.28-18.38.02:677][980]LogFileHelpers: Saving map 'Level1_Tutorial' took 0.680
-[2017.04.28-18.38.05:064][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2_Tutorail" FILE="../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level2_Tutorail.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2017.04.28-18.38.05:081][172]LogSavePackage: Save=6.14ms
-[2017.04.28-18.38.05:081][172]LogSavePackage: Moving '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Saved/Level2_Tutorail50DF29D146F8CFF2C97890AF1FC900BE.tmp' to '../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level2_Tutorail.umap'
-[2017.04.28-18.38.05:085][172]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/004287984/Documents/Unreal Projects/GitTest/Content/Level2_Tutorail.umap
-[2017.04.28-18.38.05:473][172]LogFileHelpers: Saving map 'Level2_Tutorail' took 0.496
